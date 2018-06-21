@@ -27,3 +27,4 @@ edit firstduck organisation
 edit by second user
 edit to pull request by second user
 edit to pull request by second user
+read 
